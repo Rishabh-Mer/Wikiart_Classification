@@ -16,7 +16,6 @@
 
 > Other files:
 - Project Report
-- Project Demonstration Video
 
 ---
 
