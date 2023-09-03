@@ -1,5 +1,7 @@
 # Image Classification using Convolutional Neural Networks
 
+The project involves the classification of paintings based on the artistic style used by the respective artists.
+
 ### To create an enviroment (if using Anaconda)
 - conda create -n myenv python=3.9
 
